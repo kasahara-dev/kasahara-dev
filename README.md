@@ -2,6 +2,9 @@
 
 経営理念に沿ったアプリ作成を目指し、LaravelとNext.jsを学習しています。
 
+## Skills
+
+ - https://catalog-education.oracle.com/pls/certview/sharebadge?id=932D25E28841A42AAA521B1EAA2F5CF839069785CF732639E32DF9A9A2EFDA58
 
 <!--
 **kasahara-dev/kasahara-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
