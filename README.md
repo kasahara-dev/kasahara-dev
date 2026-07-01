@@ -1,6 +1,6 @@
 ## はじめに
 
-経営理念に沿ったアプリ作成を目指し、LaravelとNext.jsを学習しています。
+経営理念に沿ったアプリ製作を目指し、LaravelとNext.jsを学習しています。
 
 <!--
 **kasahara-dev/kasahara-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
